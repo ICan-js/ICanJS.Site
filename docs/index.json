@@ -1,0 +1,2527 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/common/Calibration/index.js",
+    "content": "import p5 from \"p5\";\n\nimport { setupVideo } from \"../../utils\";\nimport { PoseNet } from \"../../core/PoseNet/index\";\nimport { Regression } from \"../../core/Regression/index\";\nimport { CalibrationAPI } from \"../../core/CalibrationAPI/index\";\n\n/**\n * Facade para a API de calibração de modelo de regressão que será utilizado nos métodos de \n * controle do mouse com o nariz. Aqui básicamente são captados uma quantidade X (Por padrão 15) de pontos \n * pontos do mouse do usuário e também da posição de seu nariz e então com estes dados criar um modelo de\n * regressão (Definido pelo usuário) que será devolvido através da função de callback.\n * \n * @param {Regression} regressionModel Modelo de regressão que deverá ser utilizado no projeto\n * @param {Function} fncFinish Função que será utilizada para entragar o modelo de regressão calibrado\n * @param {Function} fncUpdate Função que será utilizada sempre que um ponto for atualizado\n * @param {Object} calibrationOptions Opções que podem mudar os objetos do CANVAS de calibração\n * @param {Number} calibrationOptions.pointSize Tamanho das elipses a serem exibidas na calibração \n * @param {Number} calibrationOptions.pointsToStorage Quantidade de pontos que devem ser armazenados de cada elipse\n */\nfunction calibrate(regressionModel, fncFinish, fncUpdate, calibrationOptions=null) {\n    if (!(regressionModel instanceof Regression)) {\n        throw TypeError(\"The regression model must be a generalization of Regression\");\n    }\n\n    if (typeof fncFinish !== \"function\" || typeof fncUpdate !== \"function\") {\n        throw TypeError(\"The fncFinish|fncUpdate must be represented by a function!\");\n    }\n\n    if (calibrationOptions === null) {\n        calibrationOptions = {\n            pointSize: 20,\n            pointsToStorage: 15\n        }\n    }\n\n    // p5 in instance mode\n    new p5(function(sketch) {\n        \n        let poses = null;\n        let posenet = null;\n        let videoCapture;\n        let calibrationAPI;\n        \n        sketch.setup = function() {\n            sketch.createCanvas(sketch.windowWidth, sketch.windowHeight);\n\n            videoCapture = setupVideo();\n\n            calibrationAPI = new CalibrationAPI(sketch, \n                                calibrationOptions.pointSize, calibrationOptions.pointsToStorage);\n            calibrationAPI.displayEllipses();\n\n            calibrationAPI.on(\"update\", fncUpdate);\n            calibrationAPI.on(\"finish\", (pointStorage) => {\n                if (regressionModel.modelX === null && regressionModel.modelY === null) {\n                    let xDataset = [];\n                    let yDataset = [];\n\n                    // Separa os dados de cada dataset\n                    Object.keys(pointStorage).forEach((pointName) => {\n                        pointStorage[pointName].forEach((data) => {\n                            xDataset.push([data.nosePoint.x, data.mousePoint.x]);\n                            yDataset.push([data.nosePoint.y, data.mousePoint.y]);\n                        });\n                    });\n                    regressionModel.trainModel(xDataset, yDataset);\n                }\n                \n                // Desativando o canvas\n                sketch.mousePressed = null;\n                sketch.draw = null;\n\n                // Enviando o modelo de regressão treinado para o callback\n                fncFinish(regressionModel);\n            });\n\n            posenet = new PoseNet(videoCapture);\n            posenet.trackSingleUser();\n\n            posenet.on(\"poses\", (result) => {\n                poses = result;\n            });\n        }\n\n        sketch.draw = function() {\n            sketch.strokeWeight(3);\n            sketch.stroke(51);\n        }\n        \n        sketch.mousePressed = function() {\n            if (poses !== null) {\n                let noseObj = {\n                    x: poses.keypoints[0].position.x,\n                    y: poses.keypoints[0].position.y\n                }\n                \n                let mouseObj = {\n                    x: sketch.mouseX,\n                    y: sketch.mouseY\n                }\n                calibrationAPI.isInEllipse(mouseObj, noseObj);\n            } \n        }\n    });\n}\n\nexport {\n    calibrate\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/common/Calibration/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "calibrate",
+    "memberof": "src/common/Calibration/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/common/Calibration/index.js~calibrate",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/common/Calibration/index.js",
+    "importStyle": "{calibrate}",
+    "description": "Facade para a API de calibração de modelo de regressão que será utilizado nos métodos de \ncontrole do mouse com o nariz. Aqui básicamente são captados uma quantidade X (Por padrão 15) de pontos \npontos do mouse do usuário e também da posição de seu nariz e então com estes dados criar um modelo de\nregressão (Definido pelo usuário) que será devolvido através da função de callback.",
+    "lineNumber": 21,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Regression"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "regressionModel",
+        "description": "Modelo de regressão que deverá ser utilizado no projeto"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "fncFinish",
+        "description": "Função que será utilizada para entragar o modelo de regressão calibrado"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "fncUpdate",
+        "description": "Função que será utilizada sempre que um ponto for atualizado"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "calibrationOptions",
+        "description": "Opções que podem mudar os objetos do CANVAS de calibração"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "calibrationOptions.pointSize",
+        "description": "Tamanho das elipses a serem exibidas na calibração"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "calibrationOptions.pointsToStorage",
+        "description": "Quantidade de pontos que devem ser armazenados de cada elipse"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/common/Viewer/index.js",
+    "content": "import p5 from \"p5\";\n\nimport { PoseNet, Regression } from \"../../core\";\nimport { createDiv, setupVideo, changeDivPosition} from \"../../utils\";\nimport { mean, median } from \"../../core/Stats/index\";\n\n\n/**\n * Função utilitário para aplicar estilo padrão a div que será utilizada como ponteiro\n * do mouse\n * @param {HTMLElement} div \n */\nfunction applyDivScrollerStyle(div) {\n    div.style.display = \"block\";\n    div.style.borderRadius = \"20px\";\n    div.style.transformOrigin = \"10px 10px\";\n    div.style.height = \"20px\";\n    div.style.width = \"20px\";\n    div.style.backgroundColor = \"blue\";\n    div.className = \"div-scroller-icjs\";   \n    \n    return div;\n}\n\n/**\n * Facade para a utilização do PoseNet em Screen Scrollers (Controle da posição na tela utilizando gestos com a cabeça). A metodologia utilizada aqui foi apresentada no WebGazer.js\n * \n * @see https://webgazer.cs.brown.edu/ \n * \n * @param {Regression} regressionModel Modelo de regressão que será utilizado junto a rede neural para criar o controle do mouse do usuário\n * @param {String} filter Filtro que pode ser aplicado as localizações onde está a div (Que representa o ponteiro do mouse) está sendo colocada. Você pode utilizar os filtros \"median\" ou \"mean\". Por padrão nenhum filtro é aplicado\n */\nfunction screenScroller(regressionModel, filter=null) {\n    \n    if (!(regressionModel instanceof Regression)) {\n        throw new Error(\"regressionModel must be a generalization of Regression\");\n    }\n\n    if (regressionModel.modelX === null || regressionModel.modelY === null) {\n        throw new Error(\"regressionModel must be trained before starting this process\");\n    }\n\n    let filterFunction = null;\n    if (filter !== null) {\n        if (filter.name === \"mean\") {\n            filterFunction = mean;\n        } else if (filter.name === \"median\") {\n            filterFunction = median;\n        } else {\n            throw new Error(\"The filter function specified is not valid, use medium or medium\");\n        }\n\n        // Aplicando filtro\n        regressionModel.setFilter({\n            delay: filter.delay,\n            apply: filterFunction\n        });\n    }\n\n    new p5(function(sketch) {\n\n        let poses = null;\n        let pointer = null;\n        let posenet = null;\n        let videoCapture = null;\n\n        sketch.setup = function() {\n            videoCapture = setupVideo();\n            pointer = createDiv(\"pointer\");\n            pointer = applyDivScrollerStyle(pointer);\n            \n            posenet = new PoseNet(videoCapture);\n            posenet.trackSingleUser();\n\n            posenet.on(\"poses\", (result) => {\n                poses = result;\n            });\n        };\n\n        sketch.draw = function() {\n            if (poses !== null) {\n                let nose = poses.keypoints[0];\n\n                let posObj = regressionModel.inferMousePosition(nose);\n                changeDivPosition(pointer, posObj.x, posObj.y);\n\n                // Lógica para a criação do Scrolling\n                // Obrigado ao OzRamos :smile:\n                if (posObj.y < 0) {\n                    window.scrollTo(0, window.scrollY + posObj.y * 0.05);\n                } else if (posObj.y > window.innerHeight) {\n                    window.scrollTo(0, window.scrollY + (posObj.y - window.innerHeight) * 0.03);\n                }\n            }\n        };\n    });\n}\n\nexport {\n    screenScroller\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/common/Viewer/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "applyDivScrollerStyle",
+    "memberof": "src/common/Viewer/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/common/Viewer/index.js~applyDivScrollerStyle",
+    "access": "public",
+    "export": false,
+    "importPath": "ican.js/src/common/Viewer/index.js",
+    "importStyle": null,
+    "description": "Função utilitário para aplicar estilo padrão a div que será utilizada como ponteiro\ndo mouse",
+    "lineNumber": 13,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "HTMLElement"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "div",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "screenScroller",
+    "memberof": "src/common/Viewer/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/common/Viewer/index.js~screenScroller",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/common/Viewer/index.js",
+    "importStyle": "{screenScroller}",
+    "description": "Facade para a utilização do PoseNet em Screen Scrollers (Controle da posição na tela utilizando gestos com a cabeça). A metodologia utilizada aqui foi apresentada no WebGazer.js",
+    "see": [
+      "https://webgazer.cs.brown.edu/ "
+    ],
+    "lineNumber": 33,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Regression"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "regressionModel",
+        "description": "Modelo de regressão que será utilizado junto a rede neural para criar o controle do mouse do usuário"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "filter",
+        "description": "Filtro que pode ser aplicado as localizações onde está a div (Que representa o ponteiro do mouse) está sendo colocada. Você pode utilizar os filtros \"median\" ou \"mean\". Por padrão nenhum filtro é aplicado"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "src/common/Writer/index.js",
+    "content": "import { setupVideo } from \"../../utils\";\nimport { getMeanGesture } from \"./utils\";\nimport { Webcam } from \"../../core/Camera/index\";\nimport { MobileNetV1Libras } from \"../../core/MobileNetV1Libras/index\";\n\n\n/**\n * Função para escrita de textos com gestos de Libras na câmera. Para a utilização desta\n * função será necessário definir o delay em que cada frame é capturado e também a\n * quantidade de frames que deverão ser utilizados para definir o texto escrito pelo usuário. Isto por que esta função captura uma quantidade N de imagens, em X delay e então cria uma média de resultados de predição, assim a palavra com a maior média é utilizada como verdade ao o que o usuário estava dizendo nos gestos.\n * \n * @param {HTMLMediaElement} videoCapture Stream da webcam do usuário\n * @param {Number} delay Tempo de espera entre cada gesto em segundos\n * @param {Number} nFrames Quantidade de frames a serem captados para o cálculo da média\n * @param {Function} fnc Função que será utilizada para devolver os resultados calculados\n */\nfunction librasWriter(videoCapture, delay, nFrames, fnc) {\n\n    if (videoCapture.height !== 224 || videoCapture.width !== 224) {\n        throw new Error(\"The video must contain 224X224\");\n    }\n    if (delay === undefined || delay === null) {\n        throw new Error(\"The delay needs to be specified\");\n    }\n    if (typeof fnc !== \"function\") {\n        throw new Error(\"Callback must be a function\");\n    }\n\n    let gestures = [];\n    let timeout = null;\n    const webcam = new Webcam(videoCapture);\n    const mobilenetGestures = new MobileNetV1Libras(webcam);\n\n    // Definindo função recursiva com a captura dos frames\n    // Desta forma a função tende a se chamar diversas vezes\n    async function recursiveInterval() {\n        try {\n            gestures.push(await mobilenetGestures.predictFrame());\n \n            if (gestures.length >= nFrames) {\n                // Tira a média de valores classificados\n                fnc(getMeanGesture(gestures));\n                gestures = [];\n            }\n    \n            timeout = window.setTimeout(() => {\n                recursiveInterval();\n            }, delay * 1000);       \n        } catch(err) {\n            if (timeout !== null) {\n                window.clearTimeout(timeout);\n            }\n\n            console.error(\"librasWriter\", err);\n        }\n    }\n\n    recursiveInterval();\n}\n\nexport {\n    librasWriter\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/common/Writer/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "function",
+    "name": "librasWriter",
+    "memberof": "src/common/Writer/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/common/Writer/index.js~librasWriter",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/common/Writer/index.js",
+    "importStyle": "{librasWriter}",
+    "description": "Função para escrita de textos com gestos de Libras na câmera. Para a utilização desta\nfunção será necessário definir o delay em que cada frame é capturado e também a\nquantidade de frames que deverão ser utilizados para definir o texto escrito pelo usuário. Isto por que esta função captura uma quantidade N de imagens, em X delay e então cria uma média de resultados de predição, assim a palavra com a maior média é utilizada como verdade ao o que o usuário estava dizendo nos gestos.",
+    "lineNumber": 17,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "HTMLMediaElement"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "videoCapture",
+        "description": "Stream da webcam do usuário"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "delay",
+        "description": "Tempo de espera entre cada gesto em segundos"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "nFrames",
+        "description": "Quantidade de frames a serem captados para o cálculo da média"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "fnc",
+        "description": "Função que será utilizada para devolver os resultados calculados"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/common/Writer/utils.js",
+    "content": "import p5 from \"p5\";\n\n/**\n * Função para recuperar o gesto com valores médios mais significativos\n * Isto permite a classificação de gestos em um dado instante de tempo T até um instante T + nFrames\n * \n * A ideia foi retirada da seguinte dissertação: Magalh, G. I. (2018). RECONHECIMENTO DE \n * GESTOS DA LÍNGUA BRASILEIRA DE SINAIS ATRAVÉS DE REDES NEURAIS.\n * @see http://www.bdita.bibl.ita.br/tesesdigitais/lista_resumo.php?num_tese=74426\n * \n * @param {Array} gestures Array com um conjunto de saídas do método predictFrame da classe MobileNetV1Libras\n * @returns {String} Palavra que o usuário está descrevendo através de gestos\n */\nfunction getMeanGesture(gestures) {\n    \n    if (gestures instanceof Array) {\n        if (gestures.length > 0) {\n            if (Object.keys(gestures[0]) <= 0) {\n                throw Error(\"The gesture results object within the list must contain each of the predicted classes\");\n            }\n        }\n    }\n\n    // Fixado em três gestos\n    let gestureNames = [\n        \"Amigo\", \"Desculpa\", \"Telefone\"\n    ] \n    let gestureMeans = [];\n    let gestureSums = [0, 0, 0];\n\n    gestures.forEach((gestureObj) => {\n        let index = 0;\n        Object.keys(gestureObj).forEach((gesture) => {\n            gestureSums[index] += gestureObj[gesture];\n            index += 1;\n        });\n    });\n\n    gestureSums.forEach((valueSum) => {\n        gestureMeans.push(valueSum / gestureNames.length);\n    });\n\n    // Retorna o nome do gesto identificado na média\n    return gestureNames[gestureMeans.indexOf(p5.prototype.max(gestureMeans))];\n}\n\nexport {\n    getMeanGesture\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/common/Writer/utils.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "function",
+    "name": "getMeanGesture",
+    "memberof": "src/common/Writer/utils.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/common/Writer/utils.js~getMeanGesture",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/common/Writer/utils.js",
+    "importStyle": "{getMeanGesture}",
+    "description": "Função para recuperar o gesto com valores médios mais significativos\nIsto permite a classificação de gestos em um dado instante de tempo T até um instante T + nFrames\n\nA ideia foi retirada da seguinte dissertação: Magalh, G. I. (2018). RECONHECIMENTO DE \nGESTOS DA LÍNGUA BRASILEIRA DE SINAIS ATRAVÉS DE REDES NEURAIS.",
+    "see": [
+      "http://www.bdita.bibl.ita.br/tesesdigitais/lista_resumo.php?num_tese=74426"
+    ],
+    "lineNumber": 14,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{String} Palavra que o usuário está descrevendo através de gestos"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "gestures",
+        "description": "Array com um conjunto de saídas do método predictFrame da classe MobileNetV1Libras"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": "Palavra que o usuário está descrevendo através de gestos"
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/common/index.js",
+    "content": "import { librasWriter } from \"./Writer/index\";\nimport { calibrate } from \"./Calibration/index\";\nimport { screenScroller } from \"./Viewer/index\";\n\nexport {\n    screenScroller, calibrate, librasWriter\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/common/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "src/core/CalibrationAPI/index.js",
+    "content": "import { EventEmitter } from 'events';\n\n/**\n * API para calibração dos modelos de regressão disponiveis no ICan.js\n * Esta API captura a posição do mouse do usuário assim como a posição do nariz, para que seja\n * possível para os modelos de regressão mapear a relação entre as duas variáveis.\n * \n * @emits Emite um sinal com a lista de pontos do mouse e do nariz do usuário\n */\nclass CalibrationAPI extends EventEmitter {\n\n    /**\n     * \n     * @param {P5} sketch Instância de objeto P5\n     * @param {Number} pointSize Tamanho do ponto a ser exibido na tela do usuário para captação da posição do mouse\n     * @param {Number} pointsToStorage Quantidade de cada ponto exibida para finalização da calibração\n     */\n    constructor(sketch, pointSize, pointsToStorage) {\n        super();\n\n        this.sketch = sketch;\n        this.pointSize = pointSize;\n\n        this.pointStorage = {\n            Q1: [], Q2: [], Q3: [],\n            Q4: [], Q5: [], Q6: [],\n            Q7: [], Q8: [], Q9: []    \n        }\n\n        this.ellipsesPositions = [\n            {\n                name: 'Q1',\n                x: 60, \n                y: 70\n            }, {\n                name: 'Q2',\n                x: this.sketch.width / 2,\n                y: 70\n            }, {\n                name: 'Q3',\n                x: this.sketch.width - 60,\n                y: 70\n            }, {\n                name: 'Q4',\n                x: 60,\n                y: this.sketch.height / 2\n            }, {\n                name: 'Q5',\n                x: this.sketch.width / 2,\n                y: this.sketch.height / 2\n            }, {\n                name: 'Q6',\n                x: this.sketch.width - 60,\n                y: this.sketch.height / 2\n            }, {\n                name: 'Q7',\n                x: 60,\n                y: this.sketch.height - 70\n            }, {\n                name: 'Q8',\n                x: this.sketch.width / 2,\n                y: this.sketch.height - 70\n            }, {\n                name: 'Q9',\n                x: this.sketch.width - 60,\n                y: this.sketch.height - 70\n            }\n        ];\n\n        this.pointsToStorage = pointsToStorage;\n    }\n\n    /**\n     * Desenha as elipses na tela do usuário\n     */\n    displayEllipses() {\n        this.ellipsesPositions.forEach((e) => {\n            this.sketch.ellipse(e.x, e.y, this.pointSize, this.pointSize);\n        });\n    }\n\n    /**\n     * Método para verificar se o mouse está dentro de alguma ellipse\n     * @param {Array} mousePoint Lista com posição cartesiana do mouse do usuário\n     * @param {Array} nosePoint List com posição cartesiana do nariz do usuário\n     */\n    isInEllipse(mousePoint, nosePoint) {\n        this.ellipsesPositions.forEach((e) => {\n            if (this.sketch.dist(mousePoint.x, mousePoint.y, e.x, e.y) < this.pointSize) {\n\n                // Verificação para evitar overfitting\n                if (this.pointStorage[e.name].length <= this.pointsToStorage) {\n                    this.pointStorage[e.name].push({\n                        mousePoint: mousePoint,\n                        nosePoint: nosePoint\n                    });\n\n                    // Envia nome do ponto selecionado\n                    this.emit(\"update\", {\n                        \"name\": e.name,\n                        \"size\": this.pointStorage[e.name].length\n                    });\n                }\n            }\n        });\n\n        this.verifyPointStorage();\n    }\n\n    /**\n     * Método para informar ao usuário da API que a quantidade de pontos necessários\n     * no modelo foi atingido \n     * \n     * @returns {null}\n     */\n    verifyPointStorage() {            \n        let isComplete = true;\n        // Verifica os elements que já possuem a quantidade de pontos necessários\n        Object.keys(this.pointStorage).forEach((e) => {\n            if (this.pointStorage[e].length < this.pointsToStorage) {\n                isComplete = false;        \n            }\n        });\n        if (isComplete) {\n            this.emit(\"finish\", this.pointStorage);\n        }\n    }\n}\n\nexport {\n    CalibrationAPI\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/core/CalibrationAPI/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "class",
+    "name": "CalibrationAPI",
+    "memberof": "src/core/CalibrationAPI/index.js",
+    "static": true,
+    "longname": "src/core/CalibrationAPI/index.js~CalibrationAPI",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/core/CalibrationAPI/index.js",
+    "importStyle": "{CalibrationAPI}",
+    "description": "API para calibração dos modelos de regressão disponiveis no ICan.js\nEsta API captura a posição do mouse do usuário assim como a posição do nariz, para que seja\npossível para os modelos de regressão mapear a relação entre as duas variáveis.",
+    "lineNumber": 10,
+    "emits": [
+      {
+        "types": [
+          "*"
+        ],
+        "description": "Emite um sinal com a lista de pontos do mouse e do nariz do usuário"
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "events~EventEmitter"
+    ]
+  },
+  {
+    "__docId__": 60,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/core/CalibrationAPI/index.js~CalibrationAPI",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/CalibrationAPI/index.js~CalibrationAPI#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 18,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "P5"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "sketch",
+        "description": "Instância de objeto P5"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "pointSize",
+        "description": "Tamanho do ponto a ser exibido na tela do usuário para captação da posição do mouse"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "pointsToStorage",
+        "description": "Quantidade de cada ponto exibida para finalização da calibração"
+      }
+    ]
+  },
+  {
+    "__docId__": 61,
+    "kind": "member",
+    "name": "sketch",
+    "memberof": "src/core/CalibrationAPI/index.js~CalibrationAPI",
+    "static": false,
+    "longname": "src/core/CalibrationAPI/index.js~CalibrationAPI#sketch",
+    "access": "public",
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "member",
+    "name": "pointSize",
+    "memberof": "src/core/CalibrationAPI/index.js~CalibrationAPI",
+    "static": false,
+    "longname": "src/core/CalibrationAPI/index.js~CalibrationAPI#pointSize",
+    "access": "public",
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "member",
+    "name": "pointStorage",
+    "memberof": "src/core/CalibrationAPI/index.js~CalibrationAPI",
+    "static": false,
+    "longname": "src/core/CalibrationAPI/index.js~CalibrationAPI#pointStorage",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"Q1\": *, \"Q2\": *, \"Q3\": *, \"Q4\": *, \"Q5\": *, \"Q6\": *, \"Q7\": *, \"Q8\": *, \"Q9\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "member",
+    "name": "ellipsesPositions",
+    "memberof": "src/core/CalibrationAPI/index.js~CalibrationAPI",
+    "static": false,
+    "longname": "src/core/CalibrationAPI/index.js~CalibrationAPI#ellipsesPositions",
+    "access": "public",
+    "description": null,
+    "lineNumber": 30,
+    "undocument": true,
+    "type": {
+      "types": [
+        "undefined[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "member",
+    "name": "pointsToStorage",
+    "memberof": "src/core/CalibrationAPI/index.js~CalibrationAPI",
+    "static": false,
+    "longname": "src/core/CalibrationAPI/index.js~CalibrationAPI#pointsToStorage",
+    "access": "public",
+    "description": null,
+    "lineNumber": 70,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "method",
+    "name": "displayEllipses",
+    "memberof": "src/core/CalibrationAPI/index.js~CalibrationAPI",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/CalibrationAPI/index.js~CalibrationAPI#displayEllipses",
+    "access": "public",
+    "description": "Desenha as elipses na tela do usuário",
+    "lineNumber": 76,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 67,
+    "kind": "method",
+    "name": "isInEllipse",
+    "memberof": "src/core/CalibrationAPI/index.js~CalibrationAPI",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/CalibrationAPI/index.js~CalibrationAPI#isInEllipse",
+    "access": "public",
+    "description": "Método para verificar se o mouse está dentro de alguma ellipse",
+    "lineNumber": 87,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "mousePoint",
+        "description": "Lista com posição cartesiana do mouse do usuário"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "nosePoint",
+        "description": "List com posição cartesiana do nariz do usuário"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 68,
+    "kind": "method",
+    "name": "verifyPointStorage",
+    "memberof": "src/core/CalibrationAPI/index.js~CalibrationAPI",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/CalibrationAPI/index.js~CalibrationAPI#verifyPointStorage",
+    "access": "public",
+    "description": "Método para informar ao usuário da API que a quantidade de pontos necessários\nno modelo foi atingido ",
+    "lineNumber": 116,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{null}"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "null"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 69,
+    "kind": "file",
+    "name": "src/core/Camera/index.js",
+    "content": "import * as tf from \"@tensorflow/tfjs\";\n\n/**\n * Classe para a representação da webcam. Criada com base na documentação do Google \n * \n * @see https://github.com/tensorflow/tfjs-examples/blob/master/webcam-transfer-learning/webcam.js\n * \n * Esta classe abstrai operações de captura de frames da câmera do usuário e verificação do stream da câmera\n * do usuário\n */\nclass Webcam {\n    /**\n     * @param {HTMLMediaElement} videoElement Elemento de vídeo HTML capturado pelo Javascript \n     */\n    constructor(videoElement) {\n        this.videoElement = videoElement;\n    }\n\n    /**\n     * Método para capturar a imagem atual na webcam\n     * @returns {tf.Tensor} Imagem capturada da câmera do usuário, transformada em um tensor\n     */\n    captureImage() {\n        return tf.tidy(() => {\n            const webcamImage = tf.fromPixels(this.videoElement);\n\n            const batchedImage = webcamImage.expandDims(0);\n            \n            // Foi necessário normalizar a imagem capturada para a classificação ocorrer \n            // sem problemas\n            return batchedImage.toFloat().div(tf.scalar(127)).sub(tf.scalar(1));\n        });\n    }\n\n    /**\n     * Método para verificar se o Stream da webcam ainda está ativo\n     * \n     * @returns {Boolean} Flag se a stream está ou não ativa\n     */\n    isActivated() {\n        return (this.videoElement.currentTime > 0 && !this.videoElement.paused && !this.videoElement.ended);\n    }\n}\n\nexport {\n    Webcam\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/core/Camera/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 70,
+    "kind": "class",
+    "name": "Webcam",
+    "memberof": "src/core/Camera/index.js",
+    "static": true,
+    "longname": "src/core/Camera/index.js~Webcam",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/core/Camera/index.js",
+    "importStyle": "{Webcam}",
+    "description": "Classe para a representação da webcam. Criada com base na documentação do Google ",
+    "see": [
+      "https://github.com/tensorflow/tfjs-examples/blob/master/webcam-transfer-learning/webcam.js\n\nEsta classe abstrai operações de captura de frames da câmera do usuário e verificação do stream da câmera\ndo usuário"
+    ],
+    "lineNumber": 11,
+    "interface": false
+  },
+  {
+    "__docId__": 71,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/core/Camera/index.js~Webcam",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Camera/index.js~Webcam#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "HTMLMediaElement"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "videoElement",
+        "description": "Elemento de vídeo HTML capturado pelo Javascript"
+      }
+    ]
+  },
+  {
+    "__docId__": 72,
+    "kind": "member",
+    "name": "videoElement",
+    "memberof": "src/core/Camera/index.js~Webcam",
+    "static": false,
+    "longname": "src/core/Camera/index.js~Webcam#videoElement",
+    "access": "public",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "method",
+    "name": "captureImage",
+    "memberof": "src/core/Camera/index.js~Webcam",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Camera/index.js~Webcam#captureImage",
+    "access": "public",
+    "description": "Método para capturar a imagem atual na webcam",
+    "lineNumber": 23,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{tf.Tensor} Imagem capturada da câmera do usuário, transformada em um tensor"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "tf.Tensor"
+      ],
+      "spread": false,
+      "description": "Imagem capturada da câmera do usuário, transformada em um tensor"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 74,
+    "kind": "method",
+    "name": "isActivated",
+    "memberof": "src/core/Camera/index.js~Webcam",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Camera/index.js~Webcam#isActivated",
+    "access": "public",
+    "description": "Método para verificar se o Stream da webcam ainda está ativo",
+    "lineNumber": 40,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Boolean} Flag se a stream está ou não ativa"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Boolean"
+      ],
+      "spread": false,
+      "description": "Flag se a stream está ou não ativa"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 75,
+    "kind": "file",
+    "name": "src/core/MobileNetV1Libras/index.js",
+    "content": "import * as tf from \"@tensorflow/tfjs\";\n\nimport { EventEmitter } from \"events\";\nimport { transformMobileNetV1LibrasResultsInJson } from \"./utils\";\nimport { Webcam } from \"../Camera\";\n\nconst MODEL_URL = new URL(\"/\", \"https://ican-api.herokuapp.com/\");\n\n\n/**\n * Classe do modelo Mobilenet treinado para o reconhecimento de Libras\n */\nclass MobileNetV1Libras extends EventEmitter {\n    /**\n     * @param {Webcam} webcamStream Instância da classe WebCam \n     */\n    constructor(webcamStream) {\n        super();\n\n        this.model = null;\n        this.webcamStream = webcamStream;\n\n        // Informativo temporário\n        console.warn(\"MobileNetV1Libras\", \"There are updates that need to be done in this class and its resources because over time memory usage becomes excessive\");        \n    }\n\n    /**\n     * Carrega a rede neural na memória\n     */\n    async buildNet() {\n        if (this.model === null) {\n            this.model = await tf.loadModel(new URL(\"/models/mobilenetv1/model.json\", MODEL_URL).href);\n        }\n    }\n\n    /**\n     * Método para a classificação frame-a-frame (Não continua).\n     * \n     * Este método recupera apenas o frame atual e faz sua classificação\n     * \n     * @returns {Object} Retorna objeto com as probabilidades de cada uma das classes preditas. E.g {a: 0.4, b: 0.6}\n     */\n    async predictFrame() {\n        await this.buildNet();\n\n        if (this.webcamStream.isActivated()) {\n            let result = this.model.predict(this.webcamStream.captureImage());\n        \n            return transformMobileNetV1LibrasResultsInJson(result.dataSync());\n        } else {\n            console.warn(\"predictFrame: \", \"The camera is disabled, predictions will not be made\");\n            return {}\n        }\n    }\n\n    /**\n     * Método para a classificação continua de um vídeo (Classificação continua de diversos frames)\n     * @emits Emite um objeto com as probabilidades preditas pela rede neural de cada um dos frames. E.g {a: 0.4, b: 0.6}\n     * \n     * @returns {Object} Objeto de classificação de vídeo\n     */\n    async predictVideo() {\n        await this.buildNet();\n\n        if (this.model !== null) {\n            let gestures = await this.model.predict(this.webcamStream.captureImage());\n\n            this.emit(\"gestures\", transformMobileNetV1LibrasResultsInJson(gestures.dataSync()));\n            gestures.dispose();\n    \n            if (this.webcamStream.isActivated()) {\n                return tf.nextFrame().then(() => this.predictVideo());\n            } else {\n                console.warn(\"predictVideo: \", \"The camera is disabled, predictions will not be made\");\n                return {}\n            }\n        }\n    }\n}\n\nexport {\n    MobileNetV1Libras\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/core/MobileNetV1Libras/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 76,
+    "kind": "variable",
+    "name": "MODEL_URL",
+    "memberof": "src/core/MobileNetV1Libras/index.js",
+    "static": true,
+    "longname": "src/core/MobileNetV1Libras/index.js~MODEL_URL",
+    "access": "public",
+    "export": false,
+    "importPath": "ican.js/src/core/MobileNetV1Libras/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 77,
+    "kind": "class",
+    "name": "MobileNetV1Libras",
+    "memberof": "src/core/MobileNetV1Libras/index.js",
+    "static": true,
+    "longname": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/core/MobileNetV1Libras/index.js",
+    "importStyle": "{MobileNetV1Libras}",
+    "description": "Classe do modelo Mobilenet treinado para o reconhecimento de Libras",
+    "lineNumber": 13,
+    "interface": false,
+    "extends": [
+      "events~EventEmitter"
+    ]
+  },
+  {
+    "__docId__": 78,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 17,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Webcam"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "webcamStream",
+        "description": "Instância da classe WebCam"
+      }
+    ]
+  },
+  {
+    "__docId__": 79,
+    "kind": "member",
+    "name": "model",
+    "memberof": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras",
+    "static": false,
+    "longname": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras#model",
+    "access": "public",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "member",
+    "name": "webcamStream",
+    "memberof": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras",
+    "static": false,
+    "longname": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras#webcamStream",
+    "access": "public",
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "method",
+    "name": "buildNet",
+    "memberof": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras#buildNet",
+    "access": "public",
+    "description": "Carrega a rede neural na memória",
+    "lineNumber": 30,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 83,
+    "kind": "method",
+    "name": "predictFrame",
+    "memberof": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras#predictFrame",
+    "access": "public",
+    "description": "Método para a classificação frame-a-frame (Não continua).\n\nEste método recupera apenas o frame atual e faz sua classificação",
+    "lineNumber": 43,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Object} Retorna objeto com as probabilidades de cada uma das classes preditas. E.g {a: 0.4, b: 0.6}"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "Retorna objeto com as probabilidades de cada uma das classes preditas. E.g {a: 0.4, b: 0.6}"
+    },
+    "params": []
+  },
+  {
+    "__docId__": 84,
+    "kind": "method",
+    "name": "predictVideo",
+    "memberof": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/core/MobileNetV1Libras/index.js~MobileNetV1Libras#predictVideo",
+    "access": "public",
+    "description": "Método para a classificação continua de um vídeo (Classificação continua de diversos frames)",
+    "lineNumber": 62,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Object} Objeto de classificação de vídeo"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "Objeto de classificação de vídeo"
+    },
+    "emits": [
+      {
+        "types": [
+          "*"
+        ],
+        "description": "Emite um objeto com as probabilidades preditas pela rede neural de cada um dos frames. E.g {a: 0.4, b: 0.6}"
+      }
+    ],
+    "params": []
+  },
+  {
+    "__docId__": 85,
+    "kind": "file",
+    "name": "src/core/MobileNetV1Libras/utils.js",
+    "content": "/**\n * Função utilitário para transformar os resultados de predição da classe MobileNetV1 \n * em uma estrutura JSON\n * @param {Array} results Array com as probabilidades das classes preditas pela rede neural\n * \n * @returns {Object} Objeto com os resultados de cada classe identificada pela Mobilenet\n */\nfunction transformMobileNetV1LibrasResultsInJson(results) {\n    return {\n        amigo: results[0],\n        desculpa: results[1],\n        telefone: results[2]\n    }\n}\n\nexport {\n    transformMobileNetV1LibrasResultsInJson\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/core/MobileNetV1Libras/utils.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 86,
+    "kind": "function",
+    "name": "transformMobileNetV1LibrasResultsInJson",
+    "memberof": "src/core/MobileNetV1Libras/utils.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/MobileNetV1Libras/utils.js~transformMobileNetV1LibrasResultsInJson",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/core/MobileNetV1Libras/utils.js",
+    "importStyle": "{transformMobileNetV1LibrasResultsInJson}",
+    "description": "Função utilitário para transformar os resultados de predição da classe MobileNetV1 \nem uma estrutura JSON",
+    "lineNumber": 8,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Object} Objeto com os resultados de cada classe identificada pela Mobilenet"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "results",
+        "description": "Array com as probabilidades das classes preditas pela rede neural"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "Objeto com os resultados de cada classe identificada pela Mobilenet"
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "file",
+    "name": "src/core/PoseNet/index.js",
+    "content": "import * as tf from '@tensorflow/tfjs';\nimport * as posenet from '@tensorflow-models/posenet';\n\nimport { EventEmitter } from 'events';\n\n\n/**\n * Rede neural para a identificação dos pontos faciais do usuário\n */\nclass PoseNet extends EventEmitter {\n    /**\n     * \n     * @see https://ieeexplore.ieee.org/document/7410693/\n     * \n     * @param {HTMLMediaElement} video Stream de vídeo que deve ser utilizado no modelo \n     * @param {*} imageMultiplier \n     * @param {*} imageScaleFactor \n     * @param {*} outputStride \n     */\n    constructor(video, imageMultiplier=0.75, imageScaleFactor=0.5, outputStride=16) {\n        super();\n\n        this.isOn = true;\n\n        this.video = video;\n        \n        this.neuralModel = null;\n        this.imageMultiplier = imageMultiplier;\n        this.imageScaleFactor = imageScaleFactor;\n        this.outputStride = outputStride;\n    }\n\n    /**\n     * Método para criar um singleton da instância do modelo da rede\n     */\n    async buildNet() {\n        if (this.neuralModel === null) {\n            this.neuralModel = await posenet.load(this.imageMultiplier);\n        }\n    }\n\n    /**\n     * Método para recuperar pontos faciais do usuário\n     */\n    async trackSingleUser() {\n        await this.buildNet();\n\n        if (this.neuralModel !== null) {\n            let poses = await this.neuralModel.estimateSinglePose(\n                this.video, this.imageScaleFactor, false, this.outputStride)\n\n            // Enviando evento que pode ser capturado por utilizadores da classe\n            this.emit(\"poses\", poses);\n    \n            if (this.video && this.isOn) {\n                return tf.nextFrame().then(() => this.trackSingleUser());\n            }\n        }\n    }\n\n    /**\n     * Método para paralizar as predições \n     */\n    stop() {\n        this.isOn = false;\n    }\n\n    /**\n     * Método para continuar as predições\n     */\n    start() {\n        this.isOn = true;\n    }\n}\n\nexport {\n    PoseNet\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/core/PoseNet/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 88,
+    "kind": "class",
+    "name": "PoseNet",
+    "memberof": "src/core/PoseNet/index.js",
+    "static": true,
+    "longname": "src/core/PoseNet/index.js~PoseNet",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/core/PoseNet/index.js",
+    "importStyle": "{PoseNet}",
+    "description": "Rede neural para a identificação dos pontos faciais do usuário",
+    "lineNumber": 10,
+    "interface": false,
+    "extends": [
+      "events~EventEmitter"
+    ]
+  },
+  {
+    "__docId__": 89,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/core/PoseNet/index.js~PoseNet",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/PoseNet/index.js~PoseNet#constructor",
+    "access": "public",
+    "description": "",
+    "see": [
+      "https://ieeexplore.ieee.org/document/7410693/"
+    ],
+    "lineNumber": 20,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "HTMLMediaElement"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "video",
+        "description": "Stream de vídeo que deve ser utilizado no modelo"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "imageMultiplier",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "imageScaleFactor",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "outputStride",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 90,
+    "kind": "member",
+    "name": "isOn",
+    "memberof": "src/core/PoseNet/index.js~PoseNet",
+    "static": false,
+    "longname": "src/core/PoseNet/index.js~PoseNet#isOn",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "type": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 91,
+    "kind": "member",
+    "name": "video",
+    "memberof": "src/core/PoseNet/index.js~PoseNet",
+    "static": false,
+    "longname": "src/core/PoseNet/index.js~PoseNet#video",
+    "access": "public",
+    "description": null,
+    "lineNumber": 25,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "member",
+    "name": "neuralModel",
+    "memberof": "src/core/PoseNet/index.js~PoseNet",
+    "static": false,
+    "longname": "src/core/PoseNet/index.js~PoseNet#neuralModel",
+    "access": "public",
+    "description": null,
+    "lineNumber": 27,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 93,
+    "kind": "member",
+    "name": "imageMultiplier",
+    "memberof": "src/core/PoseNet/index.js~PoseNet",
+    "static": false,
+    "longname": "src/core/PoseNet/index.js~PoseNet#imageMultiplier",
+    "access": "public",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 94,
+    "kind": "member",
+    "name": "imageScaleFactor",
+    "memberof": "src/core/PoseNet/index.js~PoseNet",
+    "static": false,
+    "longname": "src/core/PoseNet/index.js~PoseNet#imageScaleFactor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 29,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 95,
+    "kind": "member",
+    "name": "outputStride",
+    "memberof": "src/core/PoseNet/index.js~PoseNet",
+    "static": false,
+    "longname": "src/core/PoseNet/index.js~PoseNet#outputStride",
+    "access": "public",
+    "description": null,
+    "lineNumber": 30,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 96,
+    "kind": "method",
+    "name": "buildNet",
+    "memberof": "src/core/PoseNet/index.js~PoseNet",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/core/PoseNet/index.js~PoseNet#buildNet",
+    "access": "public",
+    "description": "Método para criar um singleton da instância do modelo da rede",
+    "lineNumber": 36,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 98,
+    "kind": "method",
+    "name": "trackSingleUser",
+    "memberof": "src/core/PoseNet/index.js~PoseNet",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/core/PoseNet/index.js~PoseNet#trackSingleUser",
+    "access": "public",
+    "description": "Método para recuperar pontos faciais do usuário",
+    "lineNumber": 45,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 99,
+    "kind": "method",
+    "name": "stop",
+    "memberof": "src/core/PoseNet/index.js~PoseNet",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/PoseNet/index.js~PoseNet#stop",
+    "access": "public",
+    "description": "Método para paralizar as predições ",
+    "lineNumber": 64,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 101,
+    "kind": "method",
+    "name": "start",
+    "memberof": "src/core/PoseNet/index.js~PoseNet",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/PoseNet/index.js~PoseNet#start",
+    "access": "public",
+    "description": "Método para continuar as predições",
+    "lineNumber": 71,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 103,
+    "kind": "file",
+    "name": "src/core/Regression/index.js",
+    "content": "/**\n * Pesos de regressão treinados  \n */\nclass TrainedRegression {\n\n    /**\n     * \n     * @param {Number} gradient Valor do gradiente ajustado\n     * @param {Number} intercept Valor do interpecto ajustado \n     */\n    constructor(gradient, intercept) {\n        this.gradient = gradient;\n        this.intercept = intercept;\n    }\n}\n\n/**\n * Classe abstrata para os modelos de regressão\n */\nclass Regression {\n    /**\n     * \n     * @param {TrainedRegression} trainedRegression Modelo de regressão já treinado\n     * @param {TrainedRegression} modelY Modelo de regressão já treinado\n     */\n    constructor(trainedRegression=null) {\n        if (new.target == Regression) {\n            throw new TypeError(\"This class can not be instantiated\");\n        }\n\n        this.stack = {\n            x: [],\n            y: []\n        };\n        this.filter = null;\n        this.modelX = null;\n        this.modelY = null;\n\n        if (trainedRegression !== null) {\n            this.modelX = trainedRegression.weightsX;\n            this.modelY = trainedRegression.weightsY;\n        }\n    }\n\n    /**\n     * Método para inferir a posição do mouse dado a localização do nariz do usuário\n     * @param {*} nose \n     */\n    inferMousePosition(nose) {\n        throw new Error(\"This methods needs to be overwritten\");\n    }\n\n    /**\n     * Método para realizar a regressão\n     * @param {*} data \n     */\n    doRegression(data) {\n        throw new Error(\"This methods needs to be overwritten\");\n    }\n\n    /**\n     * Método para treinar o modelo de regressão\n     * @param {*} xDataset \n     * @param {*} yDataset \n     */\n    trainModel(xDataset, yDataset) {\n        throw new Error(\"This methods needs to be overwritten\");\n    }\n\n    /**\n     * Método para adição de filtro na inferência da posição do mouse\n     * @param {Function} filter \n     */\n    setFilter(filter) {\n        this.filter = filter;\n    }\n\n    /**\n     * Método para exportar os pesos dos modelos de regressão\n     */\n    exportRegressionWeights() {\n        if (this.modelX === null || this.modelY === null) {\n            throw new Error(\"The weights is not defined\");\n        }\n\n        return {\n            weightsX: new TrainedRegression(this.modelX.gradient, this.modelX.intercept),\n            weightsY: new TrainedRegression(this.modelY.gradient, this.modelY.intercept)\n        }\n    }\n}\n\n/**\n * Modelo de regressão linear, que pode ser utilizado para a inferência da posição do usuário na tela\n * Aqui o método empregado regressão linear é simples, porém, realizado duas vezes, sendo a predição para a \n * posição X e Y\n */\nclass LinearRegression extends Regression {\n\n    /**\n     * Método para inferir a posição do mouse dado a localização do nariz do usuário\n     * @param {*} nose \n     */\n    inferMousePosition(nose) {\n        if (this.modelX === null || this.modelY === null) {\n            throw Error(\"It is necessary to train the model before using this method\");\n        }\n\n        let xPredict = (nose.position.x * this.modelX.gradient) + this.modelX.intercept;\n        let yPredict = (nose.position.y * this.modelY.gradient) + this.modelY.intercept;\n\n        // Aplicação de filtro para possível suavização da movimentação do mouse\n        if (this.filter !== null) {\n            if (this.stack.x.length === this.filter.delay) {\n                xPredict = this.filter.apply(this.stack.x);\n                yPredict = this.filter.apply(this.stack.y);\n\n                this.stack = {\n                    x: [],\n                    y: []\n                };\n            } else {\n                this.stack.x.push(xPredict);\n                this.stack.y.push(yPredict);\n            }\n        }\n\n        return {\n            x: xPredict,\n            y: yPredict\n        }\n    }\n\n    /**\n     * Método para geração dos pesos do modelo de regressão \n     * \n     * @see https://github.com/brownhci/WebGazer/blob/master/src/regression.js\n     * \n     * @param {Array} data Conjunto de dados com a posição do mouse e posição do nariz do usuário para\n     * regulagem do modelo de regressão\n     */\n    doRegression(data) {\n        let n = 0;\n        let sum = [0, 0, 0, 0, 0];\n        \n        for (; n < data.length; n++) {\n            if (data[n][1] !== null) {\n                sum[0] += data[n][0];\n                sum[1] += data[n][1];\n                sum[2] += data[n][0] * data[n][0];\n                sum[3] += data[n][0] * data[n][1];\n                sum[4] += data[n][1] * data[n][1];\n            }\n        }\n\n        // Cálculo do intercepto e do gradiente da reta\n        let gradient = (n * sum[3] - sum[0] * sum[1]) / (n * sum[2] - sum[0] * sum[0]);\n        let intercept = (sum[1] / n) - (gradient * sum[0]) / n;\n\n        return {\n            gradient: gradient,\n            intercept: intercept\n        }\n    }\n\n    /**\n     * Método para treinar o modelo de regressão\n     * @param {Array} xDataset \n     * @param {Array} yDataset \n     */\n    trainModel(xDataset, yDataset) {\n        if (this.modelX !== null || this.modelY !== null) {\n            throw new Error(\"The weights have already been defined, it is not possible to train the model\")\n        }\n\n        // Realiza as regressões para cada um dos datasets\n        this.modelX = this.doRegression(xDataset);\n        this.modelY = this.doRegression(yDataset);\n    }\n}\n\nexport {\n    Regression,\n    LinearRegression\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/core/Regression/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 104,
+    "kind": "class",
+    "name": "TrainedRegression",
+    "memberof": "src/core/Regression/index.js",
+    "static": true,
+    "longname": "src/core/Regression/index.js~TrainedRegression",
+    "access": "public",
+    "export": false,
+    "importPath": "ican.js/src/core/Regression/index.js",
+    "importStyle": null,
+    "description": "Pesos de regressão treinados  ",
+    "lineNumber": 4,
+    "interface": false,
+    "ignore": true
+  },
+  {
+    "__docId__": 105,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/core/Regression/index.js~TrainedRegression",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Regression/index.js~TrainedRegression#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 11,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "gradient",
+        "description": "Valor do gradiente ajustado"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "intercept",
+        "description": "Valor do interpecto ajustado"
+      }
+    ]
+  },
+  {
+    "__docId__": 106,
+    "kind": "member",
+    "name": "gradient",
+    "memberof": "src/core/Regression/index.js~TrainedRegression",
+    "static": false,
+    "longname": "src/core/Regression/index.js~TrainedRegression#gradient",
+    "access": "public",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 107,
+    "kind": "member",
+    "name": "intercept",
+    "memberof": "src/core/Regression/index.js~TrainedRegression",
+    "static": false,
+    "longname": "src/core/Regression/index.js~TrainedRegression#intercept",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 108,
+    "kind": "class",
+    "name": "Regression",
+    "memberof": "src/core/Regression/index.js",
+    "static": true,
+    "longname": "src/core/Regression/index.js~Regression",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/core/Regression/index.js",
+    "importStyle": "{Regression}",
+    "description": "Classe abstrata para os modelos de regressão",
+    "lineNumber": 20,
+    "interface": false
+  },
+  {
+    "__docId__": 109,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/core/Regression/index.js~Regression",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Regression/index.js~Regression#constructor",
+    "access": "public",
+    "description": "",
+    "lineNumber": 26,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "TrainedRegression"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "trainedRegression",
+        "description": "Modelo de regressão já treinado"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "TrainedRegression"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "modelY",
+        "description": "Modelo de regressão já treinado"
+      }
+    ]
+  },
+  {
+    "__docId__": 110,
+    "kind": "member",
+    "name": "stack",
+    "memberof": "src/core/Regression/index.js~Regression",
+    "static": false,
+    "longname": "src/core/Regression/index.js~Regression#stack",
+    "access": "public",
+    "description": null,
+    "lineNumber": 31,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"x\": *, \"y\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 111,
+    "kind": "member",
+    "name": "filter",
+    "memberof": "src/core/Regression/index.js~Regression",
+    "static": false,
+    "longname": "src/core/Regression/index.js~Regression#filter",
+    "access": "public",
+    "description": null,
+    "lineNumber": 35,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 112,
+    "kind": "member",
+    "name": "modelX",
+    "memberof": "src/core/Regression/index.js~Regression",
+    "static": false,
+    "longname": "src/core/Regression/index.js~Regression#modelX",
+    "access": "public",
+    "description": null,
+    "lineNumber": 36,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 113,
+    "kind": "member",
+    "name": "modelY",
+    "memberof": "src/core/Regression/index.js~Regression",
+    "static": false,
+    "longname": "src/core/Regression/index.js~Regression#modelY",
+    "access": "public",
+    "description": null,
+    "lineNumber": 37,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 116,
+    "kind": "method",
+    "name": "inferMousePosition",
+    "memberof": "src/core/Regression/index.js~Regression",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Regression/index.js~Regression#inferMousePosition",
+    "access": "public",
+    "description": "Método para inferir a posição do mouse dado a localização do nariz do usuário",
+    "lineNumber": 49,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "nose",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 117,
+    "kind": "method",
+    "name": "doRegression",
+    "memberof": "src/core/Regression/index.js~Regression",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Regression/index.js~Regression#doRegression",
+    "access": "public",
+    "description": "Método para realizar a regressão",
+    "lineNumber": 57,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "data",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 118,
+    "kind": "method",
+    "name": "trainModel",
+    "memberof": "src/core/Regression/index.js~Regression",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Regression/index.js~Regression#trainModel",
+    "access": "public",
+    "description": "Método para treinar o modelo de regressão",
+    "lineNumber": 66,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "xDataset",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "yDataset",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 119,
+    "kind": "method",
+    "name": "setFilter",
+    "memberof": "src/core/Regression/index.js~Regression",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Regression/index.js~Regression#setFilter",
+    "access": "public",
+    "description": "Método para adição de filtro na inferência da posição do mouse",
+    "lineNumber": 74,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "filter",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 121,
+    "kind": "method",
+    "name": "exportRegressionWeights",
+    "memberof": "src/core/Regression/index.js~Regression",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Regression/index.js~Regression#exportRegressionWeights",
+    "access": "public",
+    "description": "Método para exportar os pesos dos modelos de regressão",
+    "lineNumber": 81,
+    "params": [],
+    "return": {
+      "types": [
+        "{\"weightsX\": *, \"weightsY\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 122,
+    "kind": "class",
+    "name": "LinearRegression",
+    "memberof": "src/core/Regression/index.js",
+    "static": true,
+    "longname": "src/core/Regression/index.js~LinearRegression",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/core/Regression/index.js",
+    "importStyle": "{LinearRegression}",
+    "description": "Modelo de regressão linear, que pode ser utilizado para a inferência da posição do usuário na tela\nAqui o método empregado regressão linear é simples, porém, realizado duas vezes, sendo a predição para a \nposição X e Y",
+    "lineNumber": 98,
+    "interface": false,
+    "extends": [
+      "Regression"
+    ]
+  },
+  {
+    "__docId__": 123,
+    "kind": "method",
+    "name": "inferMousePosition",
+    "memberof": "src/core/Regression/index.js~LinearRegression",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Regression/index.js~LinearRegression#inferMousePosition",
+    "access": "public",
+    "description": "Método para inferir a posição do mouse dado a localização do nariz do usuário",
+    "lineNumber": 104,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "nose",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "{\"x\": *, \"y\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 124,
+    "kind": "member",
+    "name": "stack",
+    "memberof": "src/core/Regression/index.js~LinearRegression",
+    "static": false,
+    "longname": "src/core/Regression/index.js~LinearRegression#stack",
+    "access": "public",
+    "description": null,
+    "lineNumber": 118,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"x\": *, \"y\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 125,
+    "kind": "method",
+    "name": "doRegression",
+    "memberof": "src/core/Regression/index.js~LinearRegression",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Regression/index.js~LinearRegression#doRegression",
+    "access": "public",
+    "description": "Método para geração dos pesos do modelo de regressão ",
+    "see": [
+      "https://github.com/brownhci/WebGazer/blob/master/src/regression.js"
+    ],
+    "lineNumber": 142,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "data",
+        "description": "Conjunto de dados com a posição do mouse e posição do nariz do usuário para\nregulagem do modelo de regressão"
+      }
+    ],
+    "return": {
+      "types": [
+        "{\"gradient\": *, \"intercept\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 126,
+    "kind": "method",
+    "name": "trainModel",
+    "memberof": "src/core/Regression/index.js~LinearRegression",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/Regression/index.js~LinearRegression#trainModel",
+    "access": "public",
+    "description": "Método para treinar o modelo de regressão",
+    "lineNumber": 171,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "xDataset",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "yDataset",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 127,
+    "kind": "member",
+    "name": "modelX",
+    "memberof": "src/core/Regression/index.js~LinearRegression",
+    "static": false,
+    "longname": "src/core/Regression/index.js~LinearRegression#modelX",
+    "access": "public",
+    "description": null,
+    "lineNumber": 177,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 128,
+    "kind": "member",
+    "name": "modelY",
+    "memberof": "src/core/Regression/index.js~LinearRegression",
+    "static": false,
+    "longname": "src/core/Regression/index.js~LinearRegression#modelY",
+    "access": "public",
+    "description": null,
+    "lineNumber": 178,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 129,
+    "kind": "file",
+    "name": "src/core/Stats/index.js",
+    "content": "/**\n * Função para cálcular a média de um array\n * \n * @see https://pt.wikipedia.org/wiki/M%C3%A9dia\n * \n * @param {Array} arr Array de números para cálculo da média dos valores \n * @returns {Number} Valor médio do array\n */\nfunction mean(arr) {\n    let s = 0;\n\n    arr.forEach((value) => {\n        s += value\n    });\n    return s / arr.length;\n}\n\n/**\n * Função para cálcular a mediana de uma array\n * \n * @see https://pt.wikipedia.org/wiki/Mediana_(estat%C3%ADstica)\n * \n * @param {Array} arr Array de números para cálculo da mediana dos valores \n * @returns {Number} Valor mediano do array\n */\nfunction median(arr) {\n    let median;\n\n    if ((arr.length % 2) === 0) {\n        median = (arr[arr.length / 2] + arr[(arr.length / 2) - 1]) / 2;\n    } else {\n        median = arr[Math.floor(arr.length / 2)];\n    }\n    return median;\n}\n\nexport {\n    mean, median\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/core/Stats/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 130,
+    "kind": "function",
+    "name": "mean",
+    "memberof": "src/core/Stats/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/Stats/index.js~mean",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/core/Stats/index.js",
+    "importStyle": "{mean}",
+    "description": "Função para cálcular a média de um array",
+    "see": [
+      "https://pt.wikipedia.org/wiki/M%C3%A9dia"
+    ],
+    "lineNumber": 9,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Number} Valor médio do array"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "arr",
+        "description": "Array de números para cálculo da média dos valores"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "Valor médio do array"
+    }
+  },
+  {
+    "__docId__": 131,
+    "kind": "function",
+    "name": "median",
+    "memberof": "src/core/Stats/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/Stats/index.js~median",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/core/Stats/index.js",
+    "importStyle": "{median}",
+    "description": "Função para cálcular a mediana de uma array",
+    "see": [
+      "https://pt.wikipedia.org/wiki/Mediana_(estat%C3%ADstica)"
+    ],
+    "lineNumber": 26,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Number} Valor mediano do array"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "arr",
+        "description": "Array de números para cálculo da mediana dos valores"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": "Valor mediano do array"
+    }
+  },
+  {
+    "__docId__": 132,
+    "kind": "file",
+    "name": "src/core/index.js",
+    "content": "import { Webcam } from \"./Camera/index\";\nimport { PoseNet } from \"./PoseNet/index\";\nimport { MobileNetV1Libras } from \"./MobileNetV1Libras/index\";\nimport { Regression, LinearRegression } from \"./Regression/index\";\n\nexport {\n    Regression, LinearRegression, PoseNet, Webcam, MobileNetV1Libras\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/core/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 133,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import * as utils from \"./utils\";\n\nimport * as core from \"./core/index\";\nimport * as common from \"./common/index\";\n\nexport {\n    core, common, utils\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 134,
+    "kind": "file",
+    "name": "src/utils.js",
+    "content": "/**\n * Funções para auxiliar o funcionamento do sistema. Veja que, mesmo utilizando o p5.js\n * as alterações no DOM estou fazendo manualmente, isto porque, mesmo a lib do p5.dom.js\n * sendo muito legal, estou fazendo manualmente para aprender mais sobre a manipulação de DOM\n */\n\n/**\n * Função para alterar a posição de uma div\n * @param {HTMLElement} div div que será movida para a nova posição \n */\nfunction changeDivPosition(div, x, y) {\n    div.style.position = \"absolute\";\n\n    div.style.left = x + \"px\";\n    div.style.top = y + \"px\";\n}\n\n/**\n * Função para adicionar uma div na página\n * @param {String} className Nome da classe que a nova div terá \n */\nfunction createDiv(className) {    \n    let div = document.createElement(\"div\");\n    div.className = className;\n\n    // Inserindo elemento na página\n    let body = document.getElementsByTagName(\"body\")[0];\n    body.appendChild(div);\n\n    return div;\n}\n\n/**\n * Função para configurar o elemento de vídeo utilizado nas classificações. Para utilizar esta função\n * é necessário ter um elemento de vídeo com o ID igual a \"videoElementICJS\"\n * @param {Number} videoHeight Altura da janela de vídeo que será criada\n * @param {Number} videoWidth Largura da janela de vídeo que será criada\n * @param {Number} isHidden Flag para indicar se o elemento de vídeo criado deve ou não ser oculto\n */\nfunction setupVideo(videoHeight=180, videoWidth=180, isHidden=true) {\n    let videoCapture = document.getElementById(\"videoElementICJS\");\n    \n    if (videoCapture === null) {\n        throw Error(\"You need to add an element with videoElementICJS id in your HTML code\");\n    }\n\n    videoCapture.height = videoHeight;\n    videoCapture.width = videoWidth;\n    videoCapture.hidden = isHidden;\n\n    if (navigator.mediaDevices.getUserMedia) {\n        navigator.mediaDevices.getUserMedia({video: true}).then((stream) => {\n            videoCapture.srcObject = stream;\n        }).catch((error) => {\n            alert(error);\n        });\n    }\n\n    return videoCapture;\n}\n\nexport {\n    setupVideo, createDiv, changeDivPosition\n}\n",
+    "static": true,
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/src/utils.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 135,
+    "kind": "function",
+    "name": "setupVideo",
+    "memberof": "src/utils.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils.js~setupVideo",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/utils.js",
+    "importStyle": "{setupVideo}",
+    "description": "Função para configurar o elemento de vídeo utilizado nas classificações. Para utilizar esta função\né necessário ter um elemento de vídeo com o ID igual a \"videoElementICJS\"",
+    "lineNumber": 40,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "videoHeight",
+        "description": "Altura da janela de vídeo que será criada"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "videoWidth",
+        "description": "Largura da janela de vídeo que será criada"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "isHidden",
+        "description": "Flag para indicar se o elemento de vídeo criado deve ou não ser oculto"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 136,
+    "kind": "function",
+    "name": "createDiv",
+    "memberof": "src/utils.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils.js~createDiv",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/utils.js",
+    "importStyle": "{createDiv}",
+    "description": "Função para adicionar uma div na página",
+    "lineNumber": 22,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "className",
+        "description": "Nome da classe que a nova div terá"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 137,
+    "kind": "function",
+    "name": "changeDivPosition",
+    "memberof": "src/utils.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils.js~changeDivPosition",
+    "access": "public",
+    "export": true,
+    "importPath": "ican.js/src/utils.js",
+    "importStyle": "{changeDivPosition}",
+    "description": "Função para alterar a posição de uma div",
+    "lineNumber": 11,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "HTMLElement"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "div",
+        "description": "div que será movida para a nova posição"
+      }
+    ],
+    "return": null
+  },
+  {
+    "kind": "index",
+    "content": "# ICan.js\n\nBiblioteca que utiliza Deep Learning para a adição de acessibilidade em páginas da web. Criado utiliando Tensorflow.js e P5.js\n",
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"ican.js\",\n  \"version\": \"0.0.1\",\n  \"description\": \"Biblioteca para adição de mais acessibilidade em páginas da web através de Deep Learning\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"jest-webpack\",\n    \"build\": \"webpack\",\n    \"build-prod\": \"webpack -p\",\n    \"docs\": \"esdoc\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"git+https://gitlab.com/ican.js/ican.js.git\"\n  },\n  \"keywords\": [\n    \"acessibilidade\",\n    \"tfjs\",\n    \"deep learning\"\n  ],\n  \"author\": \"Felipe Menino\",\n  \"license\": \"GPL-3.0\",\n  \"bugs\": {\n    \"url\": \"https://gitlab.com/ican.js/ican.js/issues\"\n  },\n  \"homepage\": \"https://gitlab.com/ican.js/ican.js#README\",\n  \"dependencies\": {\n    \"@tensorflow-models/posenet\": \"^0.2.3\",\n    \"@tensorflow/tfjs\": \"^0.14.2\",\n    \"events\": \"^3.0.0\",\n    \"p5\": \"^0.7.3\"\n  },\n  \"devDependencies\": {\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"jest\": \"^23.6.0\",\n    \"jest-webpack\": \"^0.5.1\",\n    \"webpack\": \"^4.16.3\",\n    \"webpack-cli\": \"^3.1.0\"\n  }\n}\n",
+    "longname": "/usr/home/felipe/Documents/repo/ican.js/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
