@@ -1,0 +1,36 @@
+[
+  {
+    "name": "changeDivPosition",
+    "filePath": "src/utils.js",
+    "lines": [
+      {
+        "lineNumber": 6,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 7,
+        "line": " * Função para alterar a posição de uma div"
+      },
+      {
+        "lineNumber": 8,
+        "line": " * @param {HTMLElement} div div que será movida para a nova posição "
+      },
+      {
+        "lineNumber": 9,
+        "line": " */"
+      },
+      {
+        "lineNumber": 10,
+        "line": "function changeDivPosition(div, x, y) {"
+      }
+    ],
+    "codeParams": [
+      "div",
+      "x",
+      "y"
+    ],
+    "docParams": [
+      "div"
+    ]
+  }
+]
