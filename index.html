@@ -19,18 +19,18 @@
     <header class="center">
         <div class="nav horizontal-align">
             <div class="nav-item"><a href="#projeto">O projeto</a></div>
-            <div class="nav-item"><a href="#instalacao">Instalação</a></div>
+            <div class="nav-item"><a href="#utilizacao">Utilização</a></div>
             <div class="nav-item"><a href="#exemplos">Exemplos</a></div>
             <div class="nav-item"><a href="#ecossistema">Ecossistema</a></div>
             <div class="nav-item"><a href="#docs">Documentação</a></div>
-            <div class="nav-item"><a href="#">Repositório</a></div>
+            <div class="nav-item"><a href="https://gitlab.com/ican.js" target="_blank">Repositório</a></div>
         </div>
     </header>
 
     <section class="conteudo-inicial container center text-center">
         <div>
-          <img src="static/img/logo.PNG" alt="Wing Logo" height="200">
-          <h3>ICan.js</h3>
+          <img class="img-logo" src="static/img/new_logo.png" alt="Logo" height="200">
+          <!-- <h3>ICan.js</h3> -->
           <h5>Biblioteca de acessibilidade com JavaScript</h5>
         </div>
     </section>
@@ -38,27 +38,39 @@
     <section id="projeto" class="container center">
         <div>
             <h3 class="titulo">O projeto</h3>
-            <p class="par">Esta biblioteca é um pequeno protótipo criado a partir de meu trabalho de graduação, que buscou criar recursos assistivos aplicando técnicas de Deep Learning. E aqui está um pequeno descritivo de sua estrutura e funcionamento.</p>
-            
-            <p class="par">A estrutura do projeto é bastante simples, e enquanto estava sendo desenvolvida tentou se tornar o mais amigável possível de ser utilizada. Basicamente o projeto é dividido em duas partes <b>Core</b> e <b>Common</b>, onde o Core representa as funcionalidades de "baixo nível" da aplicação, ou seja, as instâncias dos modelos de redes neurais, bem como as equações aplicadas no projeto. E o Common é justamente as funcionalidades do Core da biblioteca unidos com o <a href="https://p5js.org/" target="_blank" class="especial">P5.js</a> aplicado em diferentes problemas sendo eles: </p>
+            <p class="par">
+                ICan.js é uma biblioteca que através de técnicas de Aprendizado Profundo traz recursos assistivos para as páginas da web. Sua criação foi realizada durante o desenvolvimento do Trabalho de Graduação do Felipe Menino Carlos (Fatec-SJC).
+            </p>
+
+            <p class="par">
+                A biblioteca foi criada utilizando o conceito de camadas de funcionalidades, desta forma a biblioteca possui duas camadas sendo elas <b>Core</b> e <b>Common</b>, todas estas trabalhando sobre o Tensorflow.js.
+            </p>
+
+            <div class="parentincenter">
+                <img class="imgincenter" src="static/img/arquitetura_icanjs.jpeg" alt="arquitetura" height="250">
+            </div>
+
+            <p class="par">
+                Na camada <b>Core</b> estão os recursos indispensáveis para o funcionamento da biblioteca, como os modelos de rede neural, regressões e manipulação dos dispositivos webcam do usuário. Já na camada <b>Common</b> existem os recursos assistivos criados utilizandos as funcionalidades criadas na camada <b>Core</b> junto a biblioteca <a href="https://p5js.org/" target="_blank" class="especial">P5.js</a>. O ICan.js possui as seguintes funcionalidades disponíveis para uso:
+            </p>
 
             <div class="row">
                 <div class="col">
                         <h5 class="text-center">Controle de mouse com gestos da cabeça</h5>
-                        <p class="content">Esta aplicação busca permitir o controle dos movimentos em um website através de gestos da cabeça</p>
+                        <p class="content">Funcionalidade para permitir o controle dos movimentos em um website através de gestos da cabeça</p>
                     </div>
                     <div class="col">
                         <h5 class="text-center">Escrita de textos utilizando gestos de Libras</h5>
-                        <p class="content">Esta outra aplicação permite a escrita de textos através de gestos de Libras (Infelizmente há poucas palavras disponíveis)</p>
+                        <p class="content">Funcionalidade para a escrita de textos em campos de páginas web com gestos de Libras</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="instalacao" class="container center">
+    <section id="utilizacao" class="container center">
         <div>
-            <h3 class="titulo">Instalação</h3>
+            <h3 class="titulo">Utilização</h3>
             <p class="par">Para utilizar o ICan.js será necessário apenas baixar o arquivo da biblioteca <a href="#instalacao" class="especial">aqui</a> e importar em seu HTML, como demonstrado abaixo: </p>
 
             <pre><code class="html">
@@ -82,9 +94,9 @@
         <div>
             <h3 class="titulo">Ecossistema</h3>
 				<p class="par">O ICan.js é um projeto que possui um pequeno ecossistema que acabou sendo desenvolvido durante a implementação da biblioteca. Através do diagrama abaixo é possível visualizar este ecossistema. </p>
-				<img class="imagem-central" src="static/img/ican-diagrama.png"></img>            
+				<img class="imagem-central" src="static/img/arquitetura_geral_icanjs.png" height="350"></img>            
 
-				<p class="par">Todos os recursos apresentados no diagrama acima serão disponibilizados na página do projeto no Gitlab. </p>
+				<p class="par">A biblioteca ICan.js consome a <a class="especial" href="https://ican-api.herokuapp.com/" target="_blank">API de modelos</a>, que realiza a distribuição dos modelos treinados para o reconhecimento de gestos, modelos estes que, para serem treinados utilizaram um banco de imagens adquiridas com o <a class="especial" href="https://gitlab.com/ican.js/data-acquisition" target="_blank">sistema de aquisição de imagens</a></p>
         </div>
     </section>
 
