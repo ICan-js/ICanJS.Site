@@ -49,11 +49,15 @@
 </div>
 </nav>
 
-<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="ican-js">ICan.js</h1><p><a href="https://gitlab.com/ican.js/ican.js/commits/master"><img src="https://gitlab.com/ican.js/ican.js/badges/master/pipeline.svg" alt="pipeline status"></a>
+<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="ican-js--tophat-">ICan.js</h1><p><a href="https://gitlab.com/ican.js/ican.js/commits/master"><img src="https://gitlab.com/ican.js/ican.js/badges/master/pipeline.svg" alt="pipeline status"></a>
 <a href="https://icanjs.netlify.com/docs/source.html"><img src="https://icanjs.netlify.com/docs/badge.svg" alt="docs status"></a></p>
-<p>O ICan.js &#xE9; uma biblioteca criada para demonstrar a aplica&#xE7;&#xE3;o de t&#xE9;cnicas de Deep Learning no desenvolvimento de recursos assistivos, em especial os relacionados aos deficientes auditivos e motores.</p>
-<p>Para uma vis&#xE3;o geral, consulte a <a href="https://icanjs.netlify.com/">p&#xE1;gina oficial</a> do projeto.</p>
-<h2 id="utiliza&#xE7;&#xE3;o">Utiliza&#xE7;&#xE3;o</h2><p>A ideia da biblioteca foi criar uma forma simples de aplicar t&#xE9;cnicas de Deep Learning no desenvolvimento de recursos assistivos. Ent&#xE3;o para utilizar as funcionalidades desenvolvidas na biblioteca basta importar o arquivo compilado (<a href="">icjs.js</a>) em suas p&#xE1;ginas html.</p>
+
+<p>ICan.js &#xE9; uma biblioteca criada para disponibilizar recursos assistivos em p&#xE1;ginas da web atrav&#xE9;s da aplica&#xE7;&#xE3;o de t&#xE9;cnicas de Aprendizado Profundo. Atualmente o ICan.js disponibiliza funcionalidades para o controle de p&#xE1;ginas web atrav&#xE9;s de gestos com a cabe&#xE7;a e escrita de textos com gestos de Libras.</p>
+
+<h2 id="arquitetura-do-projeto--construction-worker-">Arquitetura do projeto </h2><p>A biblioteca &#xE9; dividida em duas camadas de funcionalidades, estas criadas sob as funcionalidades do Tensorflow.js. A Figura abaixo apresenta as camadas da biblioteca.</p>
+<p><img src="https://icanjs.netlify.com/static/img/arquitetura_icanjs2.jpeg" alt="arquitetura_icanjs"></p>
+<p>Veja que, a camada <strong>Core</strong> possui as funcionalidades principais da biblioteca, os modelos de rede neural e de regress&#xE3;o, e a camada <strong>Common</strong> consome as funcionalidades da camada <strong>Core</strong> e cria os recurso assistivos.</p>
+<h2 id="utiliza&#xE7;&#xE3;o--space-invader-">Utiliza&#xE7;&#xE3;o</h2><p>A ideia da biblioteca foi criar uma forma simples de aplicar t&#xE9;cnicas de Deep Learning no desenvolvimento de recursos assistivos. Ent&#xE3;o para utilizar as funcionalidades desenvolvidas na biblioteca basta importar o arquivo compilado (<a href="https://icanjs.netlify.com/res/icjs.js">icjs.js</a>) em suas p&#xE1;ginas html.</p>
 <pre><code class="lang-html"><code class="source-code prettyprint">&lt;html&gt;
   &lt;head&gt;
     &lt;!-- Carrega o ICan.js --&gt;
@@ -71,8 +75,7 @@
 <li><a href="https://icanjs-examples.netlify.com/controle-de-mouse/">Controle de mouse com a cabe&#xE7;a</a>;</li>
 <li><a href="https://icanjs-examples.netlify.com/escrita-de-texto/">Escrita de texto utilizando gestos de Libras</a>.</li>
 </ul>
-<h2 id="documenta&#xE7;&#xE3;o">Documenta&#xE7;&#xE3;o</h2><p>Caso queira consultar a estrutura do projeto e suas classes, consulte a documenta&#xE7;&#xE3;o do projeto clicando <a href="https://icanjs.netlify.com/docs/">aqui</a></p>
-<h2 id="colaborando">Colaborando</h2><p>O ICan.js ainda est&#xE1; em desenvolvimento, ent&#xE3;o, caso voc&#xEA; queira ajudar, abra issues das melhorias que voc&#xEA; acha importante, que podemos ir conversando e programando novas funcionalidades.</p>
+<h2 id="colaborando--balloon-">Colaborando</h2><p>O ICan.js ainda est&#xE1; em desenvolvimento, ent&#xE3;o, caso voc&#xEA; queira ajudar, abra issues das melhorias que voc&#xEA; acha importante, que podemos ir conversando e programando novas funcionalidades.</p>
 </div>
 </div>
 
